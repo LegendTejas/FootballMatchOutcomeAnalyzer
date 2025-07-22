@@ -1,7 +1,7 @@
 <h1 align="center">⚽ Football Match Outcome Analyzer</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWhpbmphN3R2dWhha25nbXFraTIyM3NlcTU5MzZrdWtzd2pscDFpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8cyro9Vo2FNhZ5mucq/giphy-downsized.gif)" width="200" alt="Football Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWhpbmphN3R2dWhha25nbXFraTIyM3NlcTU5MzZrdWtzd2pscDFpdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8cyro9Vo2FNhZ5mucq/giphy-downsized.gif" width="200" alt="Football Animation">
 </p>
 
 <p align="center">
