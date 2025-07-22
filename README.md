@@ -1,32 +1,61 @@
 <h1 align="center">⚽ Football Match Outcome Analyzer</h1>
+
 <p align="center">
-  A Data Science project that analyzes English Premier League (EPL) match data to uncover patterns, trends, and insights using Python, pandas, matplotlib, and seaborn.
+  <img src="https://media.giphy.com/media/xTiTnwLZzrQ4rTzFRW/giphy.gif" width="200" alt="Football Animation">
+</p>
+
+<p align="center">
+  Analyze, visualize, and predict English Premier League match outcomes using Python.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EDA-Matplotlib%20%7C%20Seaborn-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Predictive_Model-Scikit--learn-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-orange?style=flat-square" />
 </p>
 
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
-This project analyzes historical football match data to:
-- Explore team and player performance trends
-- Visualize goal stats, match results, and key metrics
-- Understand relationships between match attributes and outcomes
+The **Football Match Outcome Analyzer** is a data-driven project focused on analyzing and visualizing match data from the **English Premier League (EPL)**. It includes:
 
-## 🧠 Key Features
+- Data loading and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations to highlight key patterns
+- Basic outcome prediction using scikit-learn
 
-- 🧾 Data cleaning & preprocessing of EPL datasets
-- 📊 EDA with seaborn & matplotlib
-- 📈 Outcome-based analysis (goals, wins, losses, draws)
-- 📅 Seasonal & team-wise breakdowns
-- 🧠 Insightful visualizations and pattern detection
+---
 
-## 🛠 Tech Stack
+## 📊 Tools & Technologies
 
-| Category           | Technologies                                 |
-|-------------------|----------------------------------------------|
-| Language          | Python                                       |
-| Libraries         | pandas, numpy, matplotlib, seaborn           |
-| Tools             | Jupyter Notebook / Google Colab              |
-| Skills Used       | Data Cleaning, EDA, Visualization, Inference |
+- **Languages:** Python
+- **Libraries:**  
+  - `pandas` & `NumPy` for data handling  
+  - `matplotlib` & `seaborn` for visualization  
+  - `scikit-learn` for basic prediction  
+- **Platform:** Google Colab
 
+---
 
+## 🔍 Key Features
+
+- Clean and preprocess match datasets
+- Generate visuals for:
+  - Goals scored/conceded
+  - Team performance trends
+  - Win/Loss/Draw distributions
+- Build a basic predictive model to guess match outcomes
+
+---
+
+## 🧠 Predictive Modeling
+
+The project includes a basic supervised machine learning pipeline using `scikit-learn`, involving:
+
+- Feature extraction from match stats
+- Train-test split
+- Model training (e.g., Logistic Regression)
+- Evaluation using accuracy metrics
+
+---
